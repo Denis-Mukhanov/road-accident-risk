@@ -9,7 +9,7 @@ __Метрики качества:__ Accuracy, Precision, Recall.
 
 __Основные методы, примененные при реализации проекта:__
 - Pandas
-- Sqlalchemy
+- SQLAlchemy
 - Sklearn
 - CatBoost
 - PyTorch
